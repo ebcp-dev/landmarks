@@ -28,6 +28,7 @@
 		00E2964F244D40F6005EA773 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E29655244D44BF005EA773 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		00E29657244D4610005EA773 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		00E29659244D4EC5005EA773 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				00E29641244D40F3005EA773 /* AppDelegate.swift */,
 				00E29643244D40F3005EA773 /* SceneDelegate.swift */,
 				00E29645244D40F3005EA773 /* ContentView.swift */,
+				00E29659244D4EC5005EA773 /* README.md */,
 				00E29647244D40F6005EA773 /* Assets.xcassets */,
 				00E29655244D44BF005EA773 /* CircleImage.swift */,
 				00E29657244D4610005EA773 /* MapView.swift */,
